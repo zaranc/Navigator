@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "417b",
+      "name": "Vihani Desaei",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6f25",
+      "name": "Vihani Desaei",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "87654321`"
+    },
+    {
+      "id": "9603",
+      "name": "akash jayentibha savaliya",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "765432123"
+    },
+    {
+      "id": "c5a0",
+      "name": "komla  akash savaliya",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "765432123"
+    },
+    {
+      "id": "012f",
+      "name": "vivaan  akash savaliya",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "765432123"
+    },
+    {
+      "id": "443b",
+      "name": "zaran  akash savaliya",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "765432123"
+    },
+    {
+      "id": "909a",
+      "name": "akash jayentibha savaliya",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "4687978675654433211``343"
+    }
+  ],
+  "products": [
+    {
+      "id": "b332",
+      "productName": "mobile",
+      "productImage": "https://lh3.googleusercontent.com/spp/AOgFAqPh9jTNvKISw5Shg1KOa_4vHLYeXvxThMOPm5Ba7tBd91LYKogpRI95BrbYrzYJDgbUeW9Pz9EMQV8P99zIDSfbgK34cL5b57G9O7f2KQcpLHV2Jh8lMxWqkUW9lkiDQlBD8i8mqvpZEm4WF42p6I-eGSVozO-3q4gjzviai4SHWLofwndIsaPl7ERkvDr0U-Yfn0KJEvg=s512-rw-pd-pc0x00ffffff",
+      "price": "123",
+      "desc": "this is moblie",
+      "available": true
+    },
+    {
+      "id": "21ac",
+      "productName": "ring",
+      "productImage": "https://lh3.googleusercontent.com/spp/AOgFAqPh9jTNvKISw5Shg1KOa_4vHLYeXvxThMOPm5Ba7tBd91LYKogpRI95BrbYrzYJDgbUeW9Pz9EMQV8P99zIDSfbgK34cL5b57G9O7f2KQcpLHV2Jh8lMxWqkUW9lkiDQlBD8i8mqvpZEm4WF42p6I-eGSVozO-3q4gjzviai4SHWLofwndIsaPl7ERkvDr0U-Yfn0KJEvg=s512-rw-pd-pc0x00ffffff",
+      "price": "5000",
+      "desc": "this is ring",
+      "available": true
+    },
+    {
+      "id": "3661",
+      "productName": "watch",
+      "productImage": "https://lh3.googleusercontent.com/spp/AOgFAqPh9jTNvKISw5Shg1KOa_4vHLYeXvxThMOPm5Ba7tBd91LYKogpRI95BrbYrzYJDgbUeW9Pz9EMQV8P99zIDSfbgK34cL5b57G9O7f2KQcpLHV2Jh8lMxWqkUW9lkiDQlBD8i8mqvpZEm4WF42p6I-eGSVozO-3q4gjzviai4SHWLofwndIsaPl7ERkvDr0U-Yfn0KJEvg=s512-rw-pd-pc0x00ffffff",
+      "price": "2000",
+      "desc": "this is watch",
+      "available": true
+    },
+    {
+      "id": "3b24",
+      "productName": "sadi",
+      "productImage": "https://lh3.googleusercontent.com/spp/AOgFAqPh9jTNvKISw5Shg1KOa_4vHLYeXvxThMOPm5Ba7tBd91LYKogpRI95BrbYrzYJDgbUeW9Pz9EMQV8P99zIDSfbgK34cL5b57G9O7f2KQcpLHV2Jh8lMxWqkUW9lkiDQlBD8i8mqvpZEm4WF42p6I-eGSVozO-3q4gjzviai4SHWLofwndIsaPl7ERkvDr0U-Yfn0KJEvg=s512-rw-pd-pc0x00ffffff",
+      "price": "1000",
+      "desc": "this is  sadi",
+      "available": true
+    },
+    {
+      "id": "b18c",
+      "productName": "laptop",
+      "productImage": "https://lh3.googleusercontent.com/spp/AOgFAqPh9jTNvKISw5Shg1KOa_4vHLYeXvxThMOPm5Ba7tBd91LYKogpRI95BrbYrzYJDgbUeW9Pz9EMQV8P99zIDSfbgK34cL5b57G9O7f2KQcpLHV2Jh8lMxWqkUW9lkiDQlBD8i8mqvpZEm4WF42p6I-eGSVozO-3q4gjzviai4SHWLofwndIsaPl7ERkvDr0U-Yfn0KJEvg=s512-rw-pd-pc0x00ffffff",
+      "price": "50000",
+      "desc": "this is laptop",
+      "available": true
+    }
+  ]
+}
